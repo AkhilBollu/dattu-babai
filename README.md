@@ -17,3 +17,11 @@ while c <= 5:
         print ('Akhil')
         break
     c += 1
+
+
+# python project 2
+
+c = 1
+while c <= 5:
+    print ('Dattu babai')
+    c += 1
